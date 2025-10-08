@@ -6,7 +6,7 @@
 
 
 
-#  <p align="center"> 1- [Data Mining]() /  [Main Repository]()
+#  <p align="center"> 10- [Data Mining]() /  [Main Shift]()
 
 
 
@@ -93,5 +93,189 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 
 <br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+<!-- ========================== [Bibliographr ====================  -->
+
+<br><br>
+
+
+## [Bibliography]()
+
+[1](). **Castro, L. N. & Ferrari, D. G.** (2016). *Introduction to Data Mining: Basic Concepts, Algorithms, and Applications*. Saraiva.
+
+[2](). **Ferreira, A. C. P. L. et al.** (2024). *Artificial Intelligence – A Machine Learning Approach*. 2nd Ed. LTC.
+
+[3](). **Larson & Farber** (2015). *Applied Statistics*. Pearson.
+
+
+<br>
+
+### [Complementary Bibliography]()
+
+- THOMAS, C. *Data Mining*. IntechOpen, 2018.  
+- HUTTER, F.; KOTTHOFF, L.; VANSCHOREN, J. *Automated Machine Learning: Methods, Systems, Challenges*. Springer Nature, 2019.  
+- NETTO, A.; MACIEL, F. *Python para Data Science e Machine Learning Descomplicado*. Alta Books, 2021.  
+- RUSSELL, S. J.; NORVIG, P. *Artificial Intelligence: A Modern Approach*. GEN LTC, 2022.  
+- SUD, K.; ERDOGMUS, P.; KADRY, S. *Introduction to Data Science and Machine Learning*. IntechOpen, 2020.
+
+
+
+
+<br><br>
+
+      
+<!-- ======================================= Bibliography Portugues ===========================================  -->
+
+<!--
+
+## [Bibliography]()
+
+
+[1](). **Castro, L. N. & Ferrari, D. G.** (2016). *Introdução à mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva.
+
+[2](). **Ferreira, A. C. P. L. et al.** (2024). *Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina*. 2nd Ed. LTC.
+
+[3](). **Larson & Farber** (2015). *Estatística Aplicada*. Pearson.
+
+
+<br><br>
+-->
+
+<!-- ======================================= Start Footer ===========================================  -->
+
+
+<br><br>
+
+
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+<br><br>
+
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+
+
+<br><br><br>
+
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+
+<!--
+<p align="center">  ────────────── ✦ ──────────────
+-->
+
+
+
+<!-- Programmers and artists are the only professionals whose hobby is their profession."
+
+" I love people who are committed to transforming the world "
+
+" I'm big fan of those who are making waves in the world! "
+
+##### <p align="center">( Rafael Lain ) </p>   -->
+
+#
+
+###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+
+
+
+
+
+
+
+
+
+
+
 
 
