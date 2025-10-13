@@ -120,9 +120,18 @@ This repository contains a detailed study and implementation of the Mean Shift c
 <br><br>
 
 
+## What is Mean Shiftv?]()
+
+Mean Shift is a non-parametric, iterative procedure that seeks the modes or peaks in the probability density function of the data. Unlike other clustering algorithms that require specifying the number of clusters (such as K-Means), Mean Shift identifies clusters based on data distribution density, making it flexible to arbitrary cluster shapes and robust against outliers.
 
 
+<br><br>
 
+## [Average Displacement Explained]()
+
+The core concept of Mean Shift revolves around "average displacement" — iteratively computing the center of mass (mean) of data points within a window (kernel) around each candidate point and shifting the point to this new average position.
+
+<br>
 
 
 
