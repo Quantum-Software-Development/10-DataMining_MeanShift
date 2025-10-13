@@ -95,11 +95,20 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 <br><br><br><br>
 
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [What is Mean Shift?](#what-is-mean-shift)
+- [Average Displacement Explained](#average-displacement-explained)
+- [Implementation Overview](#implementation-overview)
+- [Applications and Market Uses](#applications-and-market-uses)
+- [Comparison with K-Means](#comparison-with-k-means)
+- [Use Cases](#use-cases)
+- [Video Application: Object Tracking and Face Recognition](#video-application-object-tracking-and-face-recognition)
+- [Image: Mean Shift Flow](#image-mean-shift-flow)
 
 
-
-
-
+<br><br>
 
 
 
