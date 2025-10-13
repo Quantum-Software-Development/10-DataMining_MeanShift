@@ -6,6 +6,7 @@
 
 
 
+
 #  <p align="center"> 10- [Data Mining]() /  [Main Shift]()
 
 
@@ -272,7 +273,12 @@ Mean Shift excels in video analysis scenarios. Its dynamic window shift method c
 <br>
 
 
-<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/c7f67c6e-518d-4cea-a056-14e7695bf41a" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/c7f67c6e-518d-4cea-a056-14e7695bf41a" 
+    alt="Mean Shift Algorithm Diagram" 
+    width="70%" />
+</p>
 
 
 <br><br>
