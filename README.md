@@ -273,7 +273,6 @@ Mean Shift excels in video analysis scenarios. Its dynamic window shift method c
 
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'lineColor': '#1abc9c', 'fontSize': '16px' }}}%%
 flowchart TD
     A[Initialization: Start with all data points] --> B[Create Kernel Window for each point]
     B --> C[Calculate Average Position (Mean) within window]
@@ -283,6 +282,9 @@ flowchart TD
     E -- Yes --> F[Cluster Centers Found]
     F --> G[End]
 ```
+
+
+
 
 <br><br>
 
