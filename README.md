@@ -240,7 +240,7 @@ Its robustness to noise and adaptability to complex cluster shapes make Mean Shi
 | :-- | :-- | :-- |
 | [Number of clusters]() | Automatically determined | Must be predefined |
 | [Cluster shape]() | Can find arbitrarily shaped clusters | Assumes spherical clusters |
-| [Sensitivity]() to outliers | Robust due to density-based approach | Sensitive to outliers |
+| [Sensitivity to outliers]() | Robust due to density-based approach | Sensitive to outliers |
 | [Convergence]() | Iterative shifting until displacement below threshold | Iterative centroid update |
 | [Use case example]() | Object tracking in video, image segmentation | Market segmentation with known groups |
 | [Computational complexity]() | Generally higher, depends on bandwidth and dataset size | Efficient for large datasets 
