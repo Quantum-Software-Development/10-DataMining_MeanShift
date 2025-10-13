@@ -152,7 +152,7 @@ The core concept of Mean Shift revolves around "average displacement" — iterat
 <br><br>
 
 
-### Mathematically, given a point \$ x \$, the mean shift vector \$ m(x) \$ at iteration \$ t \$ is:
+#### [Mathematically](), given a point \$x \$, the mean shift vector \$m(x)\$ at iteration \$t\$ is:
 
 <br><br>
 
@@ -164,7 +164,7 @@ $$
 
 <br><br>
 
-### [Where](): \$ N(x^{(t)}) \$ is the neighborhood within bandwidth, and \$ K \$ is the kernel function weighting points by proximity. The new position is then:
+#### [Where](): \$N(x^{(t)})\$ is the neighborhood within bandwidth, and \$K\$ is the kernel function weighting points by proximity. The new position is then:
 
 <br><br>
 
