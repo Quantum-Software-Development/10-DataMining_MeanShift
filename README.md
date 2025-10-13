@@ -176,6 +176,32 @@ $$
 <br><br>
 
 
+> [!TIP]
+>
+> The process groups points around local maxima producing clusters that naturally fit the data shape without predefined cluster numbers.
+>
+> 
+
+<br><br>
+
+
+## [Implementation Overview]()
+
+<br>
+
+>  In this repository, we will implement the Mean Shift algorithm using Python. The process will include:
+
+<br>
+
+[-]() Creating synthetic datasets for testing.
+
+[-]() Estimating the bandwidth parameter using heuristics.
+
+[-]() Running the Mean Shift iterations based on average displacement until convergence.
+
+[-]() Visualizing clusters and their centers.
+
+[-]() Comparing results with K-Means clustering to evaluate differences.
 
 
 
