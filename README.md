@@ -250,6 +250,27 @@ Its robustness to noise and adaptability to complex cluster shapes make Mean Shi
 <br><br>
 
 
+## Use Cases
+
+- Adaptive clustering of unknown or complex data distributions
+- Video object tracking and dynamic recognition
+- Image processing for medical imaging, remote sensing
+- Customer behavior analysis without pre-labeled segments
+
+
+<br><br>
+
+## Video Application: Object Tracking and Face Recognition
+
+Mean Shift excels in video analysis scenarios. Its dynamic window shift method can locate and follow moving objects frame-by-frame. This capability is essential in face recognition systems where the face position must be continuously updated despite changes in pose or lighting.
+
+
+<br><br>
+
+## Image: Mean Shift Flow
+
+[Insert here a diagram or flowchart illustrating the Mean Shift process, showing initialization, kernel window, average displacement, shifting, and convergence.]
+
 
 
 
