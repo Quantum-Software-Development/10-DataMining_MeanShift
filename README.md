@@ -267,53 +267,28 @@ Mean Shift excels in video analysis scenarios. Its dynamic window shift method c
 
 <br><br>
 
-## Image: Mean Shift Flow
-
-[Insert here a diagram or flowchart illustrating the Mean Shift process, showing initialization, kernel window, average displacement, shifting, and convergence.]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Image: Mean Shift Diagrsam Flow - ncluding initialization, kernel window, average displacement, shifting, and convergence steps. 
 
 <br><br>
+
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'lineColor': '#1abc9c', 'fontSize': '16px' }}}%%
+flowchart TD
+    A[Initialization: Start with all data points] --> B[Create Kernel Window for each point]
+    B --> C[Calculate Average Position (Mean) within window]
+    C --> D[Shift point towards Mean (Displacement)]
+    D --> E{Convergence?}
+    E -- No --> B
+    E -- Yes --> F[Cluster Centers Found]
+    F --> G[End]
+````
+
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+
+
+
+
 
 
 <!-- ========================== [Bibliographr ====================  -->
