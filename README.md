@@ -232,7 +232,7 @@ Its robustness to noise and adaptability to complex cluster shapes make Mean Shi
 <br><br>
 
 
-## Comparison with K-Means
+## [Comparison with K-Means]()
 
 
 <br>
@@ -251,7 +251,7 @@ Its robustness to noise and adaptability to complex cluster shapes make Mean Shi
 <br><br>
 
 
-## Use Cases
+## [Use Cases]()
 
 - Adaptive clustering of unknown or complex data distributions
 - Video object tracking and dynamic recognition
@@ -261,16 +261,16 @@ Its robustness to noise and adaptability to complex cluster shapes make Mean Shi
 
 <br><br>
 
-## Video Application: Object Tracking and Face Recognition
+## [Video Application: Object Tracking and Face Recognition]()
 
 Mean Shift excels in video analysis scenarios. Its dynamic window shift method can locate and follow moving objects frame-by-frame. This capability is essential in face recognition systems where the face position must be continuously updated despite changes in pose or lighting.
 
 
 <br><br>
 
-## Below is the requested Mermaid code for a flowchart illustrating the Mean Shift process (steps in English), set for dark mode and turquoise lines:
+## [Below is the requested Mermaid code for a flowchart illustrating the Mean Shift process (steps in English), set for dark mode and turquoise lines]()
 
-<br>
+<br><br>
 
 
 <p align="center">
