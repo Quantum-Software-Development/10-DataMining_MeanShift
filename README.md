@@ -1,4 +1,4 @@
-<br>
+`<br>
 
 **\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]**
 
@@ -165,6 +165,15 @@ $$
 <br><br>
 
 ### [Where](): \$ N(x^{(t)}) \$ is the neighborhood within bandwidth, and \$ K \$ is the kernel function weighting points by proximity. The new position is then:
+
+<br><br>
+
+$$
+\Huge
+x^{(t+1)} = x^{(t)} + m(x^{(t)})
+$$
+
+<br><br>
 
 
 
