@@ -265,31 +265,27 @@ Its robustness to noise and adaptability to complex cluster shapes make Mean Shi
 Mean Shift excels in video analysis scenarios. Its dynamic window shift method can locate and follow moving objects frame-by-frame. This capability is essential in face recognition systems where the face position must be continuously updated despite changes in pose or lighting.
 
 
+
+
+<!--
+
+
 <br><br>
 
-## Image: Mean Shift Diagrsam Flow - ncluding initialization, kernel window, average displacement, shifting, and convergence steps. 
-
-<br><br>
-
+## Below is the requested Mermaid code for a flowchart illustrating the Mean Shift process (steps in English), set for dark mode and turquoise lines:
 
 ```mermaid
+%%{init: {"theme":"dark", "themeVariables": {"lineColor":"#1abc9c"}}}%%
 flowchart TD
-    A[Initialization: Start with all data points] --> B[Create Kernel Window for each point]
-    B --> C[Calculate Average Position (Mean) within window]
-    C --> D[Shift point towards Mean (Displacement)]
-    D --> E{Convergence?}
+    A[Initialization: Data points as candidates] --> B[Set kernel window for each point]
+    B --> C[Calculate average position (mean) within window]
+    C --> D[Shift data point toward mean]
+    D --> E{Convergence reached?}
     E -- No --> B
-    E -- Yes --> F[Cluster Centers Found]
-    F --> G[End]
+    E -- Yes --> F[Cluster centers finalized]
+    F --> G[Process ends]
 ```
-
-
-
-
-<br><br>
-
-
-
+```
 
 
 
