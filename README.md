@@ -135,6 +135,22 @@ The core concept of Mean Shift revolves around "average displacement" — iterat
 
 
 
+[The algorithm can be summarized in steps]():
+
+<br>
+
+
+1. [**Initialization:**]() Consider each data point as a potential cluster center.
+
+2. [**Density Estimation:**]() For each point, define a window (kernel) with a bandwidth radius and calculate the mean of points within this window.
+
+3. [**Shift:**]() Move the point to the calculated mean position, effectively shifting it towards higher data density.
+
+4. [**Convergence:**]() Repeat the steps of estimating and shifting until the movement (displacement) between iterations falls below a threshold, indicating convergence at a local density maximum.
+
+
+<br><br>
+
 
 
 
