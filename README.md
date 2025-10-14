@@ -37,7 +37,7 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
 
 > [!IMPORTANT]
 > 
-> ⚠️ Heads Up
+> ⚠️  Heads Up
 >
 > * Projects and deliverables may be made [publicly available]() whenever possible.
 > * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Data Analysis and Data Mining** for partner organizations and institutions affiliated with the university.
@@ -126,7 +126,7 @@ This repository contains a detailed study and implementation of the Mean Shift c
 
 
 
-**Mean Shift** is a **non-parametric, iterative clustering algorithm** that identifies the modes or peaks in a dataset’s probability density function. Unlike algorithms such as K-Means, which require specifying the number of clusters in advance, Mean Shift detects clusters based on **data density**, making it flexible for **arbitrarily shaped clusters** and robust to **outliers**.
+[**Mean Shift**]() is a [**non-parametric, iterative clustering algorithm**]() that identifies the modes or peaks in a dataset’s probability density function. Unlike algorithms such as K-Means, which require specifying the number of clusters in advance, Mean Shift detects clusters based on [**data density**](), making it flexible for [**arbitrarily shaped clusters** and robust to **outliers**]().
 
 The algorithm works by **iteratively shifting data points toward regions of higher density**, effectively identifying cluster centers without prior knowledge of the number of clusters. This makes Mean Shift a powerful tool for **unsupervised learning** and exploratory data analysis.
 
