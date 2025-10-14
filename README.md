@@ -141,19 +141,22 @@ The core concept of Mean Shift revolves around "average displacement" — iterat
 <br>
 
 
-1. [**Initialization:**]() Consider each data point as a potential cluster center.
+1. [**Initialization:**](): Consider each data point as a potential cluster center.
 
-2. [**Density Estimation:**]() For each point, define a window (kernel) with a bandwidth radius and calculate the mean of points within this window.
+2. [**Density Estimation:**](): For each point, define a window (kernel) with a bandwidth radius and calculate the mean of points within this window.
 
-3. [**Shift:**]() Move the point to the calculated mean position, effectively shifting it towards higher data density.
+3. [**Shift:**](): Move the point to the calculated mean position, effectively shifting it towards higher data density.
 
-4. [**Convergence:**]() Repeat the steps of estimating and shifting until the movement (displacement) between iterations falls below a threshold, indicating convergence at a local density maximum.
+4. [**Convergence:**](): Repeat the steps of estimating and shifting until the movement (displacement) between iterations falls below a threshold, indicating convergence at a local density maximum.
+
+5. [**Clustering**](): Points settle around local density peaks and clusters are formed based on proximity.
 
 
-<br><br>
+
+<br><br
 
 
-#### [Mathematically](), given a point \$x \$, the mean shift vector \$m(x)\$ at iteration \$t\$ is:
+### [Mathematically](), given a point \$x \$, the mean shift vector \$m(x)\$ at iteration \$t\$ is:
 
 <br><br>
 
@@ -266,6 +269,9 @@ Its robustness to noise and adaptability to complex cluster shapes make Mean Shi
 Mean Shift excels in video analysis scenarios. Its dynamic window shift method can locate and follow moving objects frame-by-frame. This capability is essential in face recognition systems where the face position must be continuously updated despite changes in pose or lighting.
 
 
+
+
+<!--
 <br><br>
 
 ## [Below is the requested Mermaid code for a flowchart illustrating the Mean Shift process (steps in English), set for dark mode and turquoise lines]()
@@ -280,6 +286,7 @@ Mean Shift excels in video analysis scenarios. Its dynamic window shift method c
     width="70%" />
 </p>
 
+-->
 
 <br><br>
 
