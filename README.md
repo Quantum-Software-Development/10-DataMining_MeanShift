@@ -116,7 +116,7 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 <br>
 
-This repository contains a detailed study and implementation of the Mean Shift clustering algorithm focusing on its average displacement mechanism. Mean Shift is an unsupervised learning algorithm widely used for discovering clusters in a dataset, especially when the number of clusters is unknown a priori. The algorithm finds high-density regions by iteratively shifting points towards the densest areas in the feature space.
+This repository contains a detailed study and implementation of the Mean Shift clustering algorithm focusing on its average displacement mechanism. Mean Shift is an unsupervised learning algorithm widely used for discovering clusters in a dataset, especially when the number of clusters is unknown a priori.
 
 
 <br><br>
