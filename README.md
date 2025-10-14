@@ -124,12 +124,12 @@ This repository contains a detailed study and implementation of the Mean Shift c
 
 ## [What is Mean Shift ?]()
 
+<br>
 
 
-[**Mean Shift**]() is a [**non-parametric, iterative clustering algorithm**]() that identifies the modes or peaks in a dataset’s probability density function. Unlike algorithms such as K-Means, which require specifying the number of clusters in advance, Mean Shift detects clusters based on [**data density**](), making it flexible for [**arbitrarily shaped clusters** and robust to **outliers**]().
+[**Mean Shift**]() is a [**non-parametric, terative clustering algorithm**]() that identifies cluster centers by locating peaks in the data’s probability density. Unlike K-Means, it **does not require specifying the number of clusters**, making it flexible for **arbitrarily shaped clusters** and robust to [**outliers**]().
 
-The algorithm works by **iteratively shifting data points toward regions of higher density**, effectively identifying cluster centers without prior knowledge of the number of clusters. This makes Mean Shift a powerful tool for **unsupervised learning** and exploratory data analysis.
-
+The algorithm works by [**iteratively shifting data points toward regions of higher density**](), making it a powerful tool for **unsupervised learning** and exploratory data analysis.
 
 
 <br><br>
