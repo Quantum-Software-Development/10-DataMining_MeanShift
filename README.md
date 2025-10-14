@@ -284,6 +284,41 @@ $$
 
 Mean Shift excels in video analysis scenarios. Its dynamic window shift method can locate and follow moving objects frame-by-frame. This capability is essential in face recognition systems where the face position must be continuously updated despite changes in pose or lighting.
 
+<br><br>
+
+## [Implementation Example]()
+
+<br><br>
+
+```python
+import pandas as pd
+from sklearn.cluster import MeanShift, estimate_bandwidth
+from sklearn.datasets import make_blobs
+import matplotlib.pyplot as plt
+
+# Create a synthetic dataset
+X, _ = make_blobs(n_samples=500, centers=5, cluster_std=1, random_state=27)
+df = pd.DataFrame(X, columns=["C1", "C2"])
+
+# Estimate bandwidth
+bandwidth = estimate_bandwidth(df, quantile=0.2, n_samples=500)
+
+# Fit Mean Shift
+model = MeanShift(bandwidth=bandwidth, bin_seeding=True)
+model.fit(df)
+labels = model.labels_
+centers = model.cluster_centers_
+
+# Plot results
+plt.scatter(df["C1"], df["C2"], c=labels, cmap="plasma", marker="p")
+plt.scatter(centers[:, 0], centers[:, 1], s=250, c="blue", marker="X")
+plt.title("Mean Shift")
+plt.xlabel("Feature 1")
+plt.ylabel("Feature 2")
+plt.show()
+```
+
+
 
 
 
