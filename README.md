@@ -98,15 +98,16 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [What is Mean Shift?](#what-is-mean-shift)
-- [Average Displacement Explained](#average-displacement-explained)
-- [Implementation Overview](#implementation-overview)
-- [Applications and Market Uses](#applications-and-market-uses)
-- [Comparison with K-Means](#comparison-with-k-means)
-- [Use Cases](#use-cases)
-- [Video Application: Object Tracking and Face Recognition](#video-application-object-tracking-and-face-recognition)
-- [Image: Mean Shift Flow](#image-mean-shift-flow)
+- [Introduction]()
+- [What Is Mean Shift?]()
+- [Step-by-Step Algorithm]()
+- [Key Advantages]()
+- [Applications]()
+    - [Image Segmentation]()
+    - [Object Tracking in Video]()
+    - [Customer Segmentation in Marketing]()
+- [Implementation Example]()
+- [References]()
 
 
 <br><br>
@@ -121,9 +122,14 @@ This repository contains a detailed study and implementation of the Mean Shift c
 <br><br>
 
 
-## [What is Mean Shiftv ?]()
+## [What is Mean Shiftv?]()
 
-Mean Shift is a non-parametric, iterative procedure that seeks the modes or peaks in the probability density function of the data. Unlike other clustering algorithms that require specifying the number of clusters (such as K-Means), Mean Shift identifies clusters based on data distribution density, making it flexible to arbitrary cluster shapes and robust against outliers.
+
+
+**Mean Shift** is a **non-parametric, iterative clustering algorithm** that identifies the modes or peaks in a dataset’s probability density function. Unlike algorithms such as K-Means, which require specifying the number of clusters in advance, Mean Shift detects clusters based on **data density**, making it flexible for **arbitrarily shaped clusters** and robust to **outliers**.
+
+The algorithm works by **iteratively shifting data points toward regions of higher density**, effectively identifying cluster centers without prior knowledge of the number of clusters. This makes Mean Shift a powerful tool for **unsupervised learning** and exploratory data analysis.
+
 
 
 <br><br>
