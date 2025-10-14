@@ -142,7 +142,7 @@ The core concept of Mean Shift revolves around "average displacement" — iterat
 
 
 
-[The algorithm can be summarized in steps]():
+## [The algorithm can be summarized in steps]():
 
 <br>
 
@@ -232,7 +232,7 @@ $$
 
 <br>
 
-####  Mean Shift's capacity to discover clusters without prior assumptions makes it powerful in diverse real-world scenarios:
+####  [*Mean Shift's capacity to discover clusters without prior assumptions makes it powerful in diverse real-world scenarios*]():
 
 <br>
 
@@ -247,9 +247,11 @@ $$
 
  <br><br>
 
-
+> [!IMPORTANT]
+>
 >  Its robustness to noise and adaptability to complex cluster shapes make Mean Shift valuable in markets needing accurate, flexible clustering solutions in domains like computer vision, video analytics, and personalized marketing.
-
+>
+> <br>
 
 <br><br>
 
