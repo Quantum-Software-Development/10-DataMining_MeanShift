@@ -288,7 +288,7 @@ Mean Shift excels in video analysis scenarios. Its dynamic window shift method c
 
 ## [Implementation Example]()
 
-<br><br>
+<br>
 
 ```python
 import pandas as pd
