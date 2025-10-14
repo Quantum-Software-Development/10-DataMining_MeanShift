@@ -122,7 +122,7 @@ This repository contains a detailed study and implementation of the Mean Shift c
 <br><br>
 
 
-## [What is Mean Shiftv?]()
+## [What is Mean Shift ?]()
 
 
 
@@ -138,11 +138,12 @@ The algorithm works by **iteratively shifting data points toward regions of high
 
 The core concept of Mean Shift revolves around "average displacement" — iteratively computing the center of mass (mean) of data points within a window (kernel) around each candidate point and shifting the point to this new average position.
 
-<br>
+
+<br><br>
 
 
+## [Step-by-Step Algorithm]():
 
-## [The algorithm can be summarized in steps]():
 
 <br>
 
