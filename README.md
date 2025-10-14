@@ -152,8 +152,19 @@ The core concept of Mean Shift revolves around "average displacement" — iterat
 5. [**Clustering**](): Points settle around local density peaks and clusters are formed based on proximity.
 
 
+<br><br>
 
-<br><br
+
+## [Key Advantages]()
+
+- No need to define the number of clusters in advance.
+
+- Can discover clusters of arbitrary shapes.
+
+- Robust to outliers and noise due to density-based approach.
+
+
+<br><br>
 
 
 ### [Mathematically](), given a point \$x \$, the mean shift vector \$m(x)\$ at iteration \$t\$ is:
@@ -227,9 +238,11 @@ $$
 
 - [**Face Recognition:**]() Segmenting facial features or tracking faces dynamically in video frames.
 
-  <br>
 
-Its robustness to noise and adaptability to complex cluster shapes make Mean Shift valuable in markets needing accurate, flexible clustering solutions in domains like computer vision, video analytics, and personalized marketing.
+ <br><br>
+
+
+>  Its robustness to noise and adaptability to complex cluster shapes make Mean Shift valuable in markets needing accurate, flexible clustering solutions in domains like computer vision, video analytics, and personalized marketing.
 
 
 <br><br>
@@ -257,8 +270,11 @@ Its robustness to noise and adaptability to complex cluster shapes make Mean Shi
 ## [Use Cases]()
 
 - Adaptive clustering of unknown or complex data distributions
+
 - Video object tracking and dynamic recognition
+
 - Image processing for medical imaging, remote sensing
+
 - Customer behavior analysis without pre-labeled segments
 
 
